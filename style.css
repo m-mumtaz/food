@@ -385,7 +385,7 @@ form .btn:hover{
         background: var(--second-color);
         box-shadow: 0 4px 4px rgb(14 55 54 / 15%);
         transition: 0.2s ease;
-        text-align: right;
+        text-align: center;
     }
     .navbar.active{
         top: 100%;
